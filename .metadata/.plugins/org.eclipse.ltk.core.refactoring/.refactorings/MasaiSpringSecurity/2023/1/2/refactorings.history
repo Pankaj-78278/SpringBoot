@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.masai.util&apos; to &apos;MasaiMailApp/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;MasaiSpringSecurity&apos;&#x0D;&#x0A;- Destination element: &apos;MasaiMailApp/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;MasaiSpringSecurity/src/main/java/com.masai.util&apos;" description="Copy package" destination="=MasaiMailApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.masai.util" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1673619320182" version="1.0"/>
+</session>
